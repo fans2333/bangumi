@@ -1,0 +1,2 @@
+# bangumi
+Anime project
